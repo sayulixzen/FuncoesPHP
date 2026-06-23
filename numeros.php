@@ -1,5 +1,5 @@
 <?php
-/* --- PROCESSAMENTO BACKEND --- */
+
 $salario = 5450.852;
 $f1_number_format = number_format($salario, 2, ',', '.');
 

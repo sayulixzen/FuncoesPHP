@@ -1,5 +1,5 @@
 <?php
-/* --- PROCESSAMENTO BACKEND --- */
+
 $dados_brutos = [
     'nome'     => '   marianA de ALMEIDA sANTOS   ', 
     'email'    => 'MARIANA.ALMEIDA@SUPORTE.COM.BR',

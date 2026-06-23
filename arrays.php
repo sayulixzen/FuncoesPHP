@@ -1,10 +1,10 @@
 <?php
-/* --- PROCESSAMENTO BACKEND --- */
+
 $frameworks = ["Laravel", "Symfony", "Slim"];
 $f1_count = count($frameworks);
 
 array_push($frameworks, "Phalcon", "Laminas");
-$f2_array = $frameworks; // Salva estado pós push
+$f2_array = $frameworks; 
 
 $f3_pop = array_pop($frameworks);
 $f3_array = $frameworks;

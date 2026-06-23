@@ -1,5 +1,5 @@
 <?php
-/* --- PROCESSAMENTO BACKEND --- */
+
 $agora = new DateTime(); 
 $evento_futuro = new DateTime('2026-12-31');
 

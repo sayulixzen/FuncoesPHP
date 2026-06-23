@@ -1,5 +1,5 @@
 <?php
-/* --- PROCESSAMENTO BACKEND --- */
+
 $texto = "Desenvolvimento Web com PHP"; 
 $f1_strlen = strlen($texto);
 
